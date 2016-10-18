@@ -9,13 +9,13 @@
   ],
   "homepage": "http://www.s-innovations.net",
   "bugs": {
-    "url": "https://github.com/s-innovations/silib-generator/issues",
+    "url": "https://github.com/s-innovations/yeoman-silib/issues",
     "email": "bugs@s-innovations.net"
   },
   "files": [
     "generators"
   ],
-  "repository": "https://github.com/s-innovations/silib-generator",
+  "repository": "https://github.com/s-innovations/yeoman-silib",
   "license": "MIT",
   "maintainers": [],
   "dependencies": {
