@@ -7,7 +7,7 @@ import assert = require('yeoman-assert');
 describe('silib:app', function () {
   describe('when using require.js', function () {
     before(function () {
-      return helpers.run(path.join( __dirname, '../app'))
+      return helpers.run(path.join( __dirname, '../generators/app'))
         .withOptions({ foo: 'bar' })    // Mock options passed in
         .withArguments(['name-x'])      // Mock the arguments
         .withPrompts({ coffee: false }) // Mock the prompt answers

@@ -243,3 +243,4 @@ ModelManifest.xml
 /dist
 /tests/*.js
 /generators
+/coverage

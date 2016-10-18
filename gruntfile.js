@@ -27,7 +27,7 @@
                         lines: 75,
                         statements: 75
                     },
-                    root: './app', // define where the cover task should consider the root of libraries that are covered by tests
+                    root: './generators', // define where the cover task should consider the root of libraries that are covered by tests
                     reportFormats: ['cobertura', 'lcovonly']
                 }
             }
