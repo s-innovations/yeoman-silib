@@ -1,0 +1,21 @@
+﻿{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "target": "ES5",
+    "module": "amd",
+    "rootDir": ".",
+    "moduleResolution": "node",
+    "baseUrl": "../",
+    "paths": {
+      "<%= libraryName %>": [ "dist/typings" ],
+      "<%= libraryName %>/*": [ "dist/typings/*" ]
+    }
+  },
+  "exclude": [
+    "dist",
+	  "build",
+    "node_modules",
+    "tests"
+  ]
+}

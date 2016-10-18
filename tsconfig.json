@@ -1,0 +1,18 @@
+﻿{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "target": "ES5",
+    "module": "commonjs",
+    "rootDir": "src", 
+    "outDir": "generators",
+    "moduleResolution": "node"
+  },
+  "exclude": [
+    "tests",
+    "app",
+    "build",
+    "dist",
+    "node_modules"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "name": "<%= libraryName %>",
+  "author": "<%= authorName %> <<%= authorEmail %>> (<%= authorUri %>)",
+  "homepage": "<%= homepage %>",
+  "bugs": {
+    "url": "https://github.com/<%= githubAccount %>/<%= libraryName %>/issues",
+    "email": "bugs@s-innovations.com"
+  },
+  "repository": "https://github.com/<%= githubAccount %>/<%= libraryName %>"
+}

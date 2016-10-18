@@ -1,0 +1,16 @@
+﻿{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "target": "ES5",
+    "module": "commonjs",
+    "rootDir": ".",
+    "moduleResolution": "node"
+    
+  },
+  "exclude": [
+    "dist",
+    "node_modules",
+    "tests"
+  ]
+}
